@@ -1,0 +1,28 @@
+.bigbox{
+
+}
+
+.big{
+    background: rgb(0, 23, 228);
+    width: 400px;
+    padding: 20px;
+    margin-left: 40px;
+    text-align: center;
+    margin-left: 750px;
+}
+.class{
+    background: darkgrey;
+    padding: 8px 70px;
+}
+.big2{
+    background: chocolate;
+    width: 400px;
+    padding: 20px;
+    margin-left: 40px;
+    text-align: center;
+    margin-left: 750px;
+}
+.class1{
+    background: darkgrey;
+    padding: 8px 70px;
+}
